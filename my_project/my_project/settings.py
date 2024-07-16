@@ -45,7 +45,7 @@ EMAIL_HOST = 'smtp.your-email-provider.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'vidyabandgar97@email.com'
-EMAIL_HOST_PASSWORD = 'Moneyplant#23'
+EMAIL_HOST_PASSWORD = '*******'
 
 
 MIDDLEWARE = [
