@@ -14,7 +14,7 @@ class Command(BaseCommand):
             return
 
         email = EmailMessage(
-            'Subject Here',
+            'Python (Selenium) Assignment - [Vidya Bandgar]',
             'Body Here',
             'vidyaadgar97@gmail.com',  # Use the same email address as EMAIL_HOST_USER
             
